@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vt0Uxo6DU/9+O7Qe28YfXJTjIHY0PIv0VYbM60cMUZlqjhbz4IBySw6TUmGFKe0l6jr9RrVzKQO/qr/8YzPP5w==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\OnboardingApi\\OnboardingApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\travis.lynn\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\travis.lynn\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\travis.lynn\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\travis.lynn\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\travis.lynn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\travis.lynn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
