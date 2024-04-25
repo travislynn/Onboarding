@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eUE/swwfNqVyBa43IB8WMdbFjlnLDwuJb5+ZCHP3hOkoCxUsL/IS8063HepI7G9O8eMuNPhhqn3i0MS7HM/B7A==",
+  "dgSpecHash": "ywMrRpukFu7ZSMEisXgnyHD9DgwUgqsM1K5AjTuUhqB7XvcchwXEcclkkK0LD99uDyMzcIYvBOa2EyWdM+SbgQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\OnboardingApi.Tests\\OnboardingApi.Tests.csproj",
+  "projectFilePath": "C:\\onboarding\\Onboarding\\OnboardingApi.Tests\\OnboardingApi.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\travis.lynn\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\travis.lynn\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

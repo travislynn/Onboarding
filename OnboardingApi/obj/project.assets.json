@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\OnboardingApi\\OnboardingApi.csproj",
+      "projectUniqueName": "C:\\onboarding\\Onboarding\\OnboardingApi\\OnboardingApi.csproj",
       "projectName": "OnboardingApi",
-      "projectPath": "C:\\dev\\OnboardingApi\\OnboardingApi.csproj",
+      "projectPath": "C:\\onboarding\\Onboarding\\OnboardingApi\\OnboardingApi.csproj",
       "packagesPath": "C:\\Users\\travis.lynn\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\OnboardingApi\\obj\\",
+      "outputPath": "C:\\onboarding\\Onboarding\\OnboardingApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\travis.lynn\\AppData\\Roaming\\NuGet\\NuGet.Config",
