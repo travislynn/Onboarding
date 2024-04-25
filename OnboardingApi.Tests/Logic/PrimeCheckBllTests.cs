@@ -18,7 +18,7 @@ namespace OnboardingApi.Tests.Logic
             var inputNumber = 7;
 
             // Act
-            var result = bll.Get(inputNumber);
+            var result = bll.GetPrimeNumbers(inputNumber);
 
             // Assert
             Assert.AreEqual(7, result.result1);

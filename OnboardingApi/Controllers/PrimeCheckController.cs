@@ -9,9 +9,9 @@ namespace OnboardingApi.Controllers
     public class PrimeCheckController : ControllerBase
     {
         private readonly ILogger<PrimeCheckController> _logger;
-        private readonly PrimeCheckBll _bll;
+        private readonly IPrimeCheckBll _bll;
 
-        public PrimeCheckController(ILogger<PrimeCheckController> logger, PrimeCheckBll bll)
+        public PrimeCheckController(ILogger<PrimeCheckController> logger, IPrimeCheckBll bll)
         {
             _logger = logger;
             _bll = bll;
@@ -20,7 +20,7 @@ namespace OnboardingApi.Controllers
         [HttpGet(Name = "PrimeCheck")]
         public PrimeCheckResult Get(int inputNumber)
         {
-            return _bll.Get(inputNumber);
+            return _bll.GetPrimeNumbers(inputNumber);
         }
     }
 }

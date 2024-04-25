@@ -4,9 +4,9 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace OnboardingApi.Logic
 {
-    public class PrimeCheckBll
+    public class PrimeCheckBll : IPrimeCheckBll
     {
-        public PrimeCheckResult Get(int inputNumber)
+        public PrimeCheckResult GetPrimeNumbers(int inputNumber)
         {
 
             //If the input number is prime, just return it back
